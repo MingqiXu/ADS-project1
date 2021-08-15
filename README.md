@@ -13,10 +13,8 @@
 
 # Datasets
 - NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- External dataset 1: (optional)
-- External dataset 2: (optional)
-- ...
-- External dataset n: (optional)
+- Support Vector Machines: https://scikit-learn.org/stable/modules/svm.html#mathematical-formulation
+- New York City, NY Weather History: https://www.wunderground.com/history/daily/us/ny/new-york-city/KLGA
 
 # Directory
 _Change this to fit your needs when you have started the project._
