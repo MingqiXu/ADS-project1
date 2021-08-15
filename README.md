@@ -1,8 +1,8 @@
 # MAST30034 Project 1 - Quantitative Analysis
-- Student Name: _Insert Name_
-- Student ID: _Insert Student ID_
-- Due Date: Friday 13th of August 11:59:00 am (AEST).
-- Report Link: _Insert Report Link if applicable_
+- Student Name: MINGQI XU
+- Student ID: 1025328
+- Due Date: Friday 16th of August 11:59:00 am (AEST).
+- Report Link: file:///C:/Users/sally/Desktop/ADS/MINGQI%20XU%201025328%20ADS%20report1.pdf
 
 # Dependencies
 - Language: Python 3.8.
@@ -13,10 +13,8 @@
 
 # Datasets
 - NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- External dataset 1: (optional)
-- External dataset 2: (optional)
-- ...
-- External dataset n: (optional)
+- Support Vector Machines: https://scikit-learn.org/stable/modules/svm.html#mathematical-formulation
+- New York City, NY Weather History: https://www.wunderground.com/history/daily/us/ny/new-york-city/KLGA
 
 # Directory
 _Change this to fit your needs when you have started the project._
